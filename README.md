@@ -1,4 +1,4 @@
-## Spring Data with DynamoDB
+## Sai-Spring Data with DynamoDB
 
 This module contains articles about Spring Data with DynamoDB.
 
